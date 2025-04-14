@@ -5,3 +5,5 @@ export interface Votes {
 }
 
 export type VoteType = "good" | "neutral" | "bad";
+
+//гггг
